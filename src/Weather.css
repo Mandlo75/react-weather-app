@@ -34,7 +34,8 @@
 
 .Weather canvas {
   height: 64px;
-  margin-right: 1px;
+  margin-right: 5px;
+  margin-top: 5px;
   display: inline-block;
 }
 
